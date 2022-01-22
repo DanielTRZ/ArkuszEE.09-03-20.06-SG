@@ -1,6 +1,6 @@
 kw1  SELECT miesiac,rok FROM zadania WHERE dataZadania ='2020-07-01'
 
-kw2  SELECT dataZadania,wpis FROM zadania WHERE miesiac ='lipiec'
+kw2  SELECT dataZadania, wpis FROM zadania WHERE miesiac ='lipiec'
 
 kw3  SELECT DISTINCT miesiac FROM zadania WHERE miesiac LIKE "1%"
 
