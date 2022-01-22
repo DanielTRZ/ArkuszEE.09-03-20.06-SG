@@ -7,7 +7,6 @@
      <title>Mój kalendarz</title>
      <link rel="stylesheet" href="styl5.css">
 
-
   </head>
   <body>
     <div id="ban1">
@@ -32,8 +31,7 @@
        mysqli_close($conn)
       
       ?>
-        
-        
+           
    </div>
 
      <div id="glowny">
@@ -79,7 +77,6 @@
         $conn->close();
     }
          
- 
         ?>
 
         </form> 
