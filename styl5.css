@@ -1,5 +1,6 @@
 body{
     font-family: Arial;
+
 }
 #ban1{
     background-color: #483D8B;
@@ -20,7 +21,23 @@ body{
     background-color: #483D8B;
     color: white;
     padding: 10px;
-    clear: both;
-    
-    
+     clear: both;
+
+}
+#tab{
+    width: 100%;
+    height: 76.vh;
+    text-align: left;
+}
+
+#tab2{
+    background-color: #AFEEEE;
+    width: 150px;
+    height: 100px;
+    margin: 3px;
+    border: 1px solid black;
+    float: left;
+}
+h5{
+    text-align:center;
 }
