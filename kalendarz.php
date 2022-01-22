@@ -75,7 +75,7 @@
         $qr = "UPDATE zadania SET wpis ='$wpiss' WHERE dataZadania = '2020-07-13'";
         $conn->query($qr);
         $conn->close();
-    }
+       }
          
         ?>
 
