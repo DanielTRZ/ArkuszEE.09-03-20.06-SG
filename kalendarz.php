@@ -10,7 +10,7 @@
 <img src="logo1.png" alt="Mój Kalendarz">
 </div>
 <div id="ban2">
-        <h1>Kalendarz</h1>
+<h1>Kalendarz</h1>
         
         <?php
         
