@@ -30,7 +30,7 @@
 ?>
 </div>
 
-     <div id="glowny">
+<div id="glowny">
          <div id="tab">
        <?php
         require("connect.php");
