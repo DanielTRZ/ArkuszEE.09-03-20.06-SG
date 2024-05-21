@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Mój kalendarz</title>
 <link rel="stylesheet" href="styl5.css">
-  </head>
+</head>
   <body>
     <div id="ban1">
         <img src="logo1.png" alt="Mój Kalendarz">
