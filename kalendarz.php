@@ -24,7 +24,7 @@
 
        echo "<h3>"."miesiac: "."$miesiac,"." rok: "." $rok</h3>";
           
-        }
+       }
        mysqli_close($conn)
       
       ?>
