@@ -12,7 +12,7 @@
 <div id="ban2">
 <h1>Kalendarz</h1>
         
-        <?php
+<?php
         
         require("connect.php");
 
