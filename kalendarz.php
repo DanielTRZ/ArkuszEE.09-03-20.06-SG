@@ -14,7 +14,7 @@
         
 <?php
         
-        require("connect.php");
+       require("connect.php");
 
        $qr = " SELECT miesiac,rok FROM zadania WHERE dataZadania ='2020-07-01'";
        $result = $conn->query($qr);
