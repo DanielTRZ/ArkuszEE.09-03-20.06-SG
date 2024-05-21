@@ -22,7 +22,7 @@
        $miesiac = $row['miesiac'];
        $rok = $row['rok'];
 
-            echo "<h3>"."miesiac: "."$miesiac,"." rok: "." $rok</h3>";
+       echo "<h3>"."miesiac: "."$miesiac,"." rok: "." $rok</h3>";
           
         }
        mysqli_close($conn)
