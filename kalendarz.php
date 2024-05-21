@@ -7,7 +7,7 @@
 </head>
 <body>
 <div id="ban1">
-        <img src="logo1.png" alt="Mój Kalendarz">
+<img src="logo1.png" alt="Mój Kalendarz">
     </div>
     <div id="ban2">
         <h1>Kalendarz</h1>
