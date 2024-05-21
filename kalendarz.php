@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styl5.css">
 </head>
 <body>
-    <div id="ban1">
+<div id="ban1">
         <img src="logo1.png" alt="Mój Kalendarz">
     </div>
     <div id="ban2">
