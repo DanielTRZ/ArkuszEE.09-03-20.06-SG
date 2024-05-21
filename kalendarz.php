@@ -18,7 +18,7 @@
 
        $qr = " SELECT miesiac,rok FROM zadania WHERE dataZadania ='2020-07-01'";
        $result = $conn->query($qr);
-        while ($row = $result->fetch_assoc()) {
+       while ($row = $result->fetch_assoc()) {
        $miesiac = $row['miesiac'];
             $rok = $row['rok'];
 
