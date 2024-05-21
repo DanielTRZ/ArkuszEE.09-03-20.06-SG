@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
+<head>
      <meta charset="utf-8">
      <title>Mój kalendarz</title>
      <link rel="stylesheet" href="styl5.css">
