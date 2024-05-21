@@ -28,8 +28,7 @@
        mysqli_close($conn)
       
 ?>
-           
-   </div>
+</div>
 
      <div id="glowny">
          <div id="tab">
