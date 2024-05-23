@@ -31,7 +31,7 @@
 </div>
 
 <div id="glowny">
-         <div id="tab">
+<div id="tab">
        <?php
         require("connect.php");
 
