@@ -39,7 +39,7 @@
         $result = $conn->query($qr);
         while ($row = $result->fetch_assoc()) {
         $data = $row['dataZadania'];
-            $miesiac = $row['miesiac'];
+        $miesiac = $row['miesiac'];
             $wpis = $row['wpis'];
 
             echo '<div id="tab2">';
