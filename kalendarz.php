@@ -56,7 +56,7 @@
 <form action="kalendarz.php" method="post">
 dodaj wpis<input type="text" name="wpiss">
 <button type="submit">DODAJ</button>
-            <br>
+<br>
            <p>Stronę wykonał:00000000</p> 
             
       <?php
