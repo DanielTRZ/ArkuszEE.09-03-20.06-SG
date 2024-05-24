@@ -52,7 +52,7 @@
 ?>
 </div>  
 </div>
-    <div id="stopka">
+<div id="stopka">
         <form action="kalendarz.php" method="post">
             
         dodaj wpis<input type="text" name="wpiss">
