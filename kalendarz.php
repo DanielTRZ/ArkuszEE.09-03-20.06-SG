@@ -50,7 +50,7 @@
 
         mysqli_close($conn)
 ?>
-      </div>  
+</div>  
         
     </div>
     <div id="stopka">
