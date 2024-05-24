@@ -53,7 +53,7 @@
 </div>  
 </div>
 <div id="stopka">
-        <form action="kalendarz.php" method="post">
+<form action="kalendarz.php" method="post">
             
         dodaj wpis<input type="text" name="wpiss">
             <button type="submit">DODAJ</button>
