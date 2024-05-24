@@ -51,8 +51,7 @@
         mysqli_close($conn)
 ?>
 </div>  
-        
-    </div>
+</div>
     <div id="stopka">
         <form action="kalendarz.php" method="post">
             
