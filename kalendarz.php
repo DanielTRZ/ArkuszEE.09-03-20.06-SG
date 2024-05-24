@@ -38,7 +38,7 @@
         $qr = "SELECT dataZadania, miesiac, wpis FROM `zadania` WHERE miesiac = 'lipiec'";
         $result = $conn->query($qr);
         while ($row = $result->fetch_assoc()) {
-            $data = $row['dataZadania'];
+        $data = $row['dataZadania'];
             $miesiac = $row['miesiac'];
             $wpis = $row['wpis'];
 
