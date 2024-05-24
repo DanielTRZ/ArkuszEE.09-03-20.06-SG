@@ -54,8 +54,7 @@
 </div>
 <div id="stopka">
 <form action="kalendarz.php" method="post">
-            
-        dodaj wpis<input type="text" name="wpiss">
+dodaj wpis<input type="text" name="wpiss">
             <button type="submit">DODAJ</button>
             <br>
            <p>Stronę wykonał:00000000</p> 
