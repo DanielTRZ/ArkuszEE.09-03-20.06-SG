@@ -32,7 +32,7 @@
 
 <div id="glowny">
 <div id="tab">
-       <?php
+<?php
         require("connect.php");
 
         $qr = "SELECT dataZadania, miesiac, wpis FROM `zadania` WHERE miesiac = 'lipiec'";
