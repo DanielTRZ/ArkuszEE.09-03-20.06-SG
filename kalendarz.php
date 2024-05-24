@@ -40,7 +40,7 @@
         while ($row = $result->fetch_assoc()) {
         $data = $row['dataZadania'];
         $miesiac = $row['miesiac'];
-            $wpis = $row['wpis'];
+        $wpis = $row['wpis'];
 
             echo '<div id="tab2">';
             echo "<h5>$data, $miesiac</h5>";
