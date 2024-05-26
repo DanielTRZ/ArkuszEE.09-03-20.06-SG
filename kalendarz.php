@@ -67,8 +67,7 @@ dodaj wpis<input type="text" name="wpiss">
         $conn->query($qr);
         $conn->close();
        }
-         
-        ?>
+ ?>
 
 </form> 
 </div>
