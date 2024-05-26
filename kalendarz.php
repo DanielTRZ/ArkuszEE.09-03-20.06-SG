@@ -42,7 +42,7 @@
         $miesiac = $row['miesiac'];
         $wpis = $row['wpis'];
 
-            echo '<div id="tab2">';
+        echo '<div id="tab2">';
             echo "<h5>$data, $miesiac</h5>";
             echo "<p>$wpis</p>";
             echo '</div>';
