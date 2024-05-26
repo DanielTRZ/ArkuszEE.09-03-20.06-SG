@@ -60,8 +60,7 @@ dodaj wpis<input type="text" name="wpiss">
 <?php
     
         require("connect.php");
-
-    if (isset($_POST['wpiss'])) {
+        if (isset($_POST['wpiss'])) {
         
         $wpiss = $_POST['wpiss'];
         $qr = "UPDATE zadania SET wpis ='$wpiss' WHERE dataZadania = '2020-07-13'";
