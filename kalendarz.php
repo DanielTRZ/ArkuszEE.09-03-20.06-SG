@@ -47,7 +47,6 @@
         echo "<p>$wpis</p>";
         echo '</div>';
         }
-
         mysqli_close($conn)
 ?>
 </div>  
